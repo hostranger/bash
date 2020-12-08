@@ -1,0 +1,2 @@
+#!/bin/bash
+socat READLINE,history=$HOME/.chameleon_history /dev/chameleon,crlf
